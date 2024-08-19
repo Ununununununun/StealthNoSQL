@@ -32,7 +32,7 @@
 
 ## How to Use
 
-To use **StealthNoSQL: The Ultimate NoSQL Injection Tool**, follow these steps:
+To use **StealthNoSQL : The Ultimate NoSQL Injection Tool**, follow these steps:
 
 1. Ensure your environment meets the requirements listed above.
 2. Clone the repository or download the script.
