@@ -46,7 +46,7 @@ To use **StealthNoSQL : The Ultimate NoSQL Injection Tool**, follow these steps:
 
 ## Disclaimer
 
-🌟🌟🌟 "The developer of **StealthNoSQL: The Ultimate NoSQL Injection Tool** is not responsible for any misuse or illegal activities conducted with this tool. Use at your own risk." 🌟🌟🌟
+🌟🌟🌟 "The developer of **StealthNoSQL : The Ultimate NoSQL Injection Tool** is not responsible for any misuse or illegal activities conducted with this tool. Use at your own risk." 🌟🌟🌟
 
 ### Note
 
