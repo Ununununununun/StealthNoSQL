@@ -1,7 +1,7 @@
 <h1 align="center">StealthNoSQL</h1>
 <h3 align="center">v1.3.0</h3>
 
-**StealthNoSQL: The Ultimate NoSQL Injection Tool** - Unleash the power of advanced NoSQL injection techniques with this comprehensive command-line tool! Whether you’re pentesting MongoDB, CouchDB, or any other NoSQL database, StealthNoSQL has you covered. 🚀💻
+**StealthNoSQL : The Ultimate NoSQL Injection Tool** - Unleash the power of advanced NoSQL injection techniques with this comprehensive command-line tool! Whether you’re pentesting MongoDB, CouchDB, or any other NoSQL database, StealthNoSQL has you covered. 🚀💻
 
 ## What's New (v1.3.0)
 
