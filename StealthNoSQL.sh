@@ -3,7 +3,7 @@
 
 make_request() {
     local url="$1"
-    local headers=()
+    local headers={}
     if [ -n "$session_cookie" ]; then
         headers+=("-H" "Cookie: $session_cookie")
     fi
