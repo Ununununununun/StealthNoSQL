@@ -1,25 +1,6 @@
 #!/bin/bash
 
 
-print_banner() {
-    local banner=(
-        "******************************************"
-        "*              StealthNoSQL              *"
-        "*    The Ultimate NoSQL Injection Tool   *"
-        "*                  v1.3.0                *"
-        "*      ----------------------------      *"
-        "*                        by @ImKKingshuk *"
-        "* Github- https://github.com/ImKKingshuk *"
-        "******************************************"
-    )
-    local width=$(tput cols)
-    for line in "${banner[@]}"; do
-        printf "%*s\n" $(((${#line} + width) / 2)) "$line"
-    done
-    echo
-}
-
-
 make_request() {
     local url="$1"
     local headers=()
@@ -136,7 +117,6 @@ generate_report() {
 
 
 main() {
-    print_banner
     read -p "Enter the target URL (e.g., https://www.example.com): " url
     url="${url%/}"
 
